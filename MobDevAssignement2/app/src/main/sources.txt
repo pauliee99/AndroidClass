@@ -1,0 +1,7 @@
+https://developer.android.com/training/location/permissions
+https://developer.android.com/reference/android/content/ContentResolver
+https://developer.android.com/guide/topics/providers/content-provider-creating
+https://stackoverflow.com/questions/51106252/android-studio-attempt-to-invoke-virtual-method-on-a-null-object-reference
+https://stackoverflow.com/questions/16055447/how-to-get-gps-location-once-for-5-mins-android
+https://developer.android.com/training/monitoring-device-state/battery-monitoring
+https://stackoverflow.com/questions/11434056/how-to-run-a-method-every-x-seconds
